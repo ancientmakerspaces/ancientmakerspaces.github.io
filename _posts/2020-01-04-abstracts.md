@@ -1,6 +1,6 @@
 ---
 title: "abstracts"
-bg: black
+bg: "#262626"
 color: white
 fa-icon: folder
 ---
