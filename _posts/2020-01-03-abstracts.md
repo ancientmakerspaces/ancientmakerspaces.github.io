@@ -8,7 +8,7 @@ fa-icon: folder
 # Abstracts
 {: .text-purple}
 
-## Unit 1: Digital Approaches to Language and Literature (8:30am to 10:15am)
+## Unit 1: Digital Approaches to Language and Literature (8:10am to 10:15am)
 
 **Chiara Palladino (Furman University) and Joshua Kemp (Furman University), "Ugarit: a tool for Translation Alignment on Ancient Languages"**
 
